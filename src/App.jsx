@@ -12,6 +12,7 @@ function App() {
     <div className="App">
       <header>
         <h1>🏠 Find your home</h1>
+    <h2>TEST FOR GITHUB WORKFLOW</h2>
       </header>
       <div className="wrapper">
         <div className="filters">
